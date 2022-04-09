@@ -1,4 +1,4 @@
-# ActividadFormativaM2-Equipo3
+# Actividad Git-GitHub-Equipo 3
 Actividad Formativa - Uso de Google Colab y GitHub
 
 Miembros del Equipo: 
