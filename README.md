@@ -1,4 +1,6 @@
 # Actividad Git-GitHub-Equipo 3 Dinamita
+
+
 ## Tecnológico de Monterrey
 
 Actividad Formativa - Uso de Google Colab y GitHub
@@ -10,5 +12,7 @@ Miembros del Equipo:
 - Alejandro José Murcia Alfaro
 - Camila Navarro Llaven
 - Paola Guadalupe Machorro Ortiz
+
+
 
 
