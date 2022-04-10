@@ -9,7 +9,7 @@ Miembros del Equipo:
   - César Guillermo Vázquez Álvarez, A01197857
   - Ana Daniela López Dávila, A00831568
   - Alejandro José Murcia Alfaro, A00828513
-  - Camila Navarro Llaven, A0
+  - Camila Navarro Llaven, A00517244 
   - Paola Guadalupe Machorro Ortiz, A00831197
 
 Carrera en curso:
