@@ -1,4 +1,6 @@
 # Actividad Git-GitHub-Equipo 3
+## Tecnológico de Monterrey
+
 Actividad Formativa - Uso de Google Colab y GitHub
 
 Miembros del Equipo: 
