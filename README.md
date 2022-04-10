@@ -7,11 +7,11 @@ Actividad Formativa - Uso de Google Colab y GitHub
 
 Miembros del Equipo: 
 
-- César Guillermo Vázquez Álvarez 
-- Ana Daniela López Dávila
-- Alejandro José Murcia Alfaro
-- Camila Navarro Llaven
-- Paola Guadalupe Machorro Ortiz
+- César Guillermo Vázquez Álvarez, A
+- Ana Daniela López Dávila, A00831568
+- Alejandro José Murcia Alfaro, A00828513
+- Camila Navarro Llaven, A
+- Paola Guadalupe Machorro Ortiz, A00831197
 
 
 
