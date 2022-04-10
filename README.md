@@ -12,6 +12,12 @@ Miembros del Equipo:
   - Camila Navarro Llaven, A0
   - Paola Guadalupe Machorro Ortiz, A00831197
 
+Carrera en curso:
+  - IDM. Ingeniería en Ciencia de Datos y Matemáticas (Aplica para todos los integrantes)
+
+Semestre en curso:
+  - 4to Semestre (Aplica para todos los integrantes)
+
 
 
 
