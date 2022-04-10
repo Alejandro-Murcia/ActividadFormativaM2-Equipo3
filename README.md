@@ -1,4 +1,4 @@
-# Actividad Git-GitHub-Equipo 3
+# Actividad Git-GitHub-Equipo 3 Dinamita
 ## Tecnológico de Monterrey
 
 Actividad Formativa - Uso de Google Colab y GitHub
